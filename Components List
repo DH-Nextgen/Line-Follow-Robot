@@ -1,0 +1,16 @@
+                                          Components List
+
+Microcontroller  - Arduino Uno
+
+Sensors
+    •	Five IR Sensors - To detect the black line on the arena
+    •	Two IR Sensors - To detect obstacles in its path
+
+Communication and Power Module
+    •	Motor drive (L298N) - To control the DC motors
+    •	Three 3.7V Rechargeable Li-ion Batteries
+
+Actuators
+    •	Two DC Motors - To provide movement by controlling the wheels
+    •	Two Servo Motors - To control the robot's gripper
+    •	Gripper - Pick and Place mechanism
